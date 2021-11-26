@@ -1,2 +1,3 @@
-# wave-4.0
+Wave 4.0
+
 Automação de processos com pyautogui.
