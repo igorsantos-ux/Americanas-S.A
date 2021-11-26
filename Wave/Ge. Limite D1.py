@@ -63,7 +63,7 @@ def gerar_imprimir():
         pyautogui.click(x=638, y=277) # dt limite
         pyautogui.write('{}/{}/{}'.format(dia, mes, ano))
         pyautogui.click(x=428, y=317)
-        pyautogui.write('150')
+        pyautogui.write('100')
         pyautogui.press('tab')
 
         #PROGRAMADO
