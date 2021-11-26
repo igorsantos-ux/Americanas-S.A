@@ -1,3 +1,3 @@
-Wave 4.0
+Americanas S.A
 
-Automação de processos com pyautogui.
+Desenvolvimento de automações para os Assistentes ADM de planejamento.
