@@ -112,10 +112,8 @@ def gerar_imprimir():
 def fechar_wms():
     pyautogui.click(x=1339, y=8)  # Clicar no X
     pyautogui.click(x=712, y=457)  # Clicar sim
+    pyautogui.hotkey('win', 'd')  # AREA DE TRABALHO
     pyautogui.alert('Fim de turno, bom descanso')
-
-
-pyautogui.hotkey('win', 'd')  # AREA DE TRABALHO
 
 # Layout
 
